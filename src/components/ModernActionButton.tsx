@@ -35,7 +35,7 @@ export default function ModernActionButton({ onClick, disabled = false }: Modern
 
       <div className="mt-3 text-center">
         <p className="text-xs text-cyan-200/90 drop-shadow-lg">
-          ✓ アカウント不要 ✓ 決済情報不要 ✓ 100%無料
+          ✓ アカウント不要 ✓ 決済情報不要 ✓ 完全無料
         </p>
       </div>
     </div>

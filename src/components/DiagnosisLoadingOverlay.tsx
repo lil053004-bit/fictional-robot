@@ -113,7 +113,7 @@ export default function DiagnosisLoadingOverlay({
               </p>
               <div className="pt-3 border-t border-modern-purple-500/30">
                 <p className="text-xs text-gray-300 text-center leading-relaxed">
-                  すべてのデータは公開されている市場情報を使用しており、データの真実性と有効性を保証します。本分析は最新のAI技術により、財務指標、業界動向、市場トレンドを総合的に評価しています。
+                  すべてのデータは公開されている市場情報を使用しており、公開市場データに基づいて分析を行っています。本分析は最新のAI技術により、財務指標、業界動向、市場トレンドを総合的に評価しています。
                 </p>
               </div>
             </div>

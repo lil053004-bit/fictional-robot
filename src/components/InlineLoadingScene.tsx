@@ -33,7 +33,7 @@ export default function InlineLoadingScene({ isVisible }: InlineLoadingSceneProp
         <p className="text-xs text-gray-300 leading-relaxed">
           すべてのデータは公開されている市場情報を使用しており、
           <br className="hidden sm:inline" />
-          データの真実性と有効性を保証します
+          公開市場データに基づいて分析を行っています
         </p>
       </div>
     </div>
